@@ -74,14 +74,14 @@ h1 {
 .hero {
   padding: 1em;
   max-width: 100%;
-  background-color: #294860;
+  background-color: #208E1D;
   color: white;
 }
 
 .my-picture {
   display: block;
   margin: 0 auto 10px;
-  width: 100%;
+  width: 75%;
   border: 2px solid white;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -92,13 +92,13 @@ h1 {
   max-width: 100%;
   color: #969696;
   letter-spacing: 0.05em;
-  font-size: 20px;
+  font-size: 18px;
   margin: 0;
 }
 
 .my-info {
   max-width: 100%;
-  font-size: 22px;
+  font-size: 16px;
   margin: 0 auto 20px;
 }
 
